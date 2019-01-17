@@ -1,0 +1,11 @@
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\bin\Debug\PolarPeril_DylanCox.exe.config
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\bin\Debug\PolarPeril_DylanCox.exe
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\bin\Debug\PolarPeril_DylanCox.pdb
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\bin\Debug\PolarPeril_DylanCox.xml
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\obj\Debug\PolarPeril_DylanCox.vbprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\obj\Debug\PolarPeril_DylanCox.MainForm.resources
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\obj\Debug\PolarPeril_DylanCox.Resources.resources
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\obj\Debug\PolarPeril_DylanCox.vbproj.GenerateResource.Cache
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\obj\Debug\PolarPeril_DylanCox.exe
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\obj\Debug\PolarPeril_DylanCox.xml
+C:\Users\Dylan\Desktop\RP4K\PolarPeril_DylanCox\PolarPeril_DylanCox\obj\Debug\PolarPeril_DylanCox.pdb
